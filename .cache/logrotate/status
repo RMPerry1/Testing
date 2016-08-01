@@ -1,0 +1,15 @@
+logrotate state -- version 2
+"/home/systemadmin/.cache/upstart/update-notifier-release.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/bamfdaemon.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/ssh-agent.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/unity7.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/gnome-keyring-ssh.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/unity-settings-daemon.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/gpg-agent.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/unity-panel-service.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/upstart-event-bridge.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/window-stack-bridge.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/at-spi2-registryd.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/hud.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/dbus.log" 2016-8-1-11:0:0
+"/home/systemadmin/.cache/upstart/indicator-sound.log" 2016-8-1-11:0:0

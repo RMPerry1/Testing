@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    
+    <title>Download Ruby</title>
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/normalize.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/pygments.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/mobile.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/print.css">
+    <link href='https://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic&amp;subset=latin,cyrillic,greek,vietnamese' rel='stylesheet' type='text/css'>
+    <link rel="canonical" href="https://www.ruby-lang.org/en/downloads/">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    
+    <link href="/en/feeds/news.rss" rel="alternate" title="Recent News (RSS)" type="application/rss+xml">
+
+
+    <script type="text/javascript" src="/javascripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/javascripts/page.js"></script>
+    
+  </head>
+
+  
+
+  <body>
+    <div id="header">
+      <div id="header_content" class="container">
+        <a href="/en/">
+          <h1>Ruby</h1>
+          <h2>A Programmer's Best Friend</h2>
+        </a>
+
+        <div class="site-links">
+          <a href="/en/" class="home">Home</a>
+          
+
+  <a href="/en/downloads/">Downloads</a>
+
+  <a href="/en/documentation/">Documentation</a>
+
+  <a href="/en/libraries/">Libraries</a>
+
+  <a href="/en/community/">Community</a>
+
+  <a href="/en/news/">News</a>
+
+  <a href="/en/security/">Security</a>
+
+  <a href="/en/about/">About Ruby</a>
+
+
+          <a href="#" class="menu selected">Menu</a>
+        </div>
+
+        <div id="search-box">
+          
+<form id="search-form" action="https://www.google.com/cse">
+  <table class="fieldset">
+    <tr>
+      <td>
+        <input class="field" type="text" name="q" size="31" style="background: white url(//www.google.com/coop/intl/en/images/google_custom_search_watermark.gif) left no-repeat" onfocus="this.style.background='white'" onblur="if (/^\s*$/.test(this.value)) this.style.background='white url(//www.google.com/coop/intl/en/images/google_custom_search_watermark.gif) left no-repeat'"/>
+      </td>
+      <td>
+        <input type="hidden" name="cx" value="013598269713424429640:g5orptiw95w" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input class="button" type="submit" name="sa" value="Search" />
+      </td>
+    </tr>
+  </table>
+</form>
+
+        </div>
+      </div>
+    </div>
+
+    <div id="page">
+      
+
+
+      <div id="main-wrapper" class="container">
+        <div id="main">
+          <div id="content-wrapper">
+  
+<h1>Download Ruby</h1>
+
+
+
+  <div id="content">
+    <p class="summary">Here you can get the latest Ruby distributions in your favorite flavor.
+The current stable version is 2.3.1.
+Please be sure to read <a href="/en/about/license.txt">Ruby’s License</a>.</p>
+
+<h3>Ways of Installing Ruby</h3>
+
+<p>We have several tools on each major platform to install Ruby:</p>
+
+<ul>
+  <li>On Linux/UNIX, you can use the package management system of your
+distribution or third-party tools (rbenv and RVM).</li>
+  <li>On OS X machines, you can use third-party tools (rbenv and RVM).</li>
+  <li>On Windows machines, you can use RubyInstaller.</li>
+</ul>
+
+<p>See the <a href="/en/documentation/installation/">Installation</a> page for details on using
+package management systems or third-party tools.</p>
+
+<p>Of course, you can also install Ruby from source on all major platforms.</p>
+
+<h3>Compiling Ruby — Source Code</h3>
+
+<p>Installing from the source code is a great solution for when you are
+comfortable enough with your platform and perhaps need specific settings
+for your environment. It’s also a good solution in the event that there
+are no other premade packages for your platform.</p>
+
+<p>See the <a href="/en/documentation/installation/">Installation</a> page for details on building
+Ruby from source. If you have an issue compiling Ruby, consider using
+one of the third party tools mentioned above. They may help you.</p>
+
+<ul>
+  <li><strong>Stable releases:</strong>
+    <ul>
+      <li><a href="https://cache.ruby-lang.org/pub/ruby/2.3/ruby-2.3.1.tar.gz">Ruby 2.3.1</a><br />
+sha256: b87c738cb2032bf4920fef8e3864dc5cf8eae9d89d8d523ce0236945c5797dcd</li>
+      <li><a href="https://cache.ruby-lang.org/pub/ruby/2.2/ruby-2.2.5.tar.gz">Ruby 2.2.5</a><br />
+sha256: 30c4b31697a4ca4ea0c8db8ad30cf45e6690a0f09687e5d483c933c03ca335e3</li>
+      <li><a href="https://cache.ruby-lang.org/pub/ruby/2.1/ruby-2.1.10.tar.gz">Ruby 2.1.10</a><br />
+sha256: fb2e454d7a5e5a39eb54db0ec666f53eeb6edc593d1d2b970ae4d150b831dd20</li>
+    </ul>
+  </li>
+  <li><strong>Not maintained anymore (EOL):</strong>
+    <ul>
+      <li><a href="https://cache.ruby-lang.org/pub/ruby/2.0/ruby-2.0.0-p648.tar.gz">Ruby 2.0.0-p648</a><br />
+sha256: 8690bd6b4949c333b3919755c4e48885dbfed6fd055fe9ef89930bde0d2376f8</li>
+    </ul>
+  </li>
+  <li><strong>Snapshots:</strong>
+    <ul>
+      <li><a href="https://cache.ruby-lang.org/pub/ruby/stable-snapshot.tar.gz">Stable Snapshot</a>:
+This is a tarball of the latest snapshot of the current stable branch.</li>
+      <li><a href="https://cache.ruby-lang.org/pub/ruby/snapshot.tar.gz">Nightly Snapshot</a>:
+This is a tarball of whatever is in SVN, made nightly.
+This may contain bugs or other issues, use at your own risk!</li>
+    </ul>
+  </li>
+</ul>
+
+<p>For information about the Ruby Subversion and Git repositories, see our
+<a href="/en/community/ruby-core/">Ruby Core</a> page.</p>
+
+<p>The Ruby source is available from a worldwide set of
+<a href="/en/downloads/mirrors/">Mirror Sites</a>.
+Please try to use a mirror that is near you.</p>
+
+
+  </div>
+</div>
+<hr class="hidden-modern" />
+
+<div id="sidebar-wrapper">
+  <div id="sidebar">
+    
+
+
+
+
+<div class="navigation">
+  <h3><strong>Get Started</strong>, it's easy!</h3>
+
+  <ul class="menu">
+    <li><a href="http://tryruby.org/">Try Ruby! (in your browser)</a></li>
+
+    
+    <li><a href="/en/documentation/quickstart/">Ruby in Twenty Minutes</a></li>
+    
+
+    
+    <li><a href="/en/documentation/ruby-from-other-languages/">Ruby from Other Languages</a></li>
+    
+  </ul>
+</div>
+
+
+
+<div class="navigation">
+  <h3><strong>Explore</strong> a new world…</h3>
+  <ul class="menu">
+    
+    <li><a href="/en/documentation/">Documentation</a></li>
+    
+
+    
+
+    
+    <li><a href="http://rubybib.org/">Academic Research</a></li>
+    
+
+    
+    <li><a href="/en/libraries/">Libraries</a></li>
+    
+
+    
+    <li><a href="/en/documentation/success-stories/">Success Stories</a></li>
+    
+  </ul>
+</div>
+
+
+
+<div class="navigation">
+  <h3><strong>Participate</strong> in a friendly and growing community.</h3>
+  <ul>
+    
+    <li><a href="/en/community/mailing-lists/">Mailing Lists</a>: Talk about Ruby with programmers from all around the world.
+</li>
+    
+
+    
+    <li><a href="/en/community/user-groups/">User Groups</a>: Get in contact with Rubyists in your area.
+</li>
+    
+
+    
+    <li><a href="/en/community/weblogs/">Weblogs</a>: Read about what’s happening right now in the Ruby community.
+</li>
+    
+
+    
+    <li><a href="/en/community/ruby-core/">Ruby Core</a>: Help polish the rough edges of the latest Ruby.
+</li>
+    
+
+    
+    <li><a href="https://bugs.ruby-lang.org/">Issue Tracking</a>: Report or help solve issues in Ruby.
+</li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+    <h3>Syndicate</h3>
+    <p><a href="/en/feeds/news.rss">Recent News (RSS)</a></p>
+
+
+  </div>
+</div>
+<hr class="hidden-modern" />
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div id="footer">
+        <div class="site-links">
+          
+
+  <a href="/en/downloads/">Downloads</a>
+
+  <a href="/en/documentation/">Documentation</a>
+
+  <a href="/en/libraries/">Libraries</a>
+
+  <a href="/en/community/">Community</a>
+
+  <a href="/en/news/">News</a>
+
+  <a href="/en/security/">Security</a>
+
+  <a href="/en/about/">About Ruby</a>
+
+
+        </div>
+
+        <p>
+
+  This site in other languages:
+
+<a href="/bg/">Български</a>,
+<a href="/de/">Deutsch</a>,
+<a href="/en/">English</a>,
+<a href="/es/">Español</a>,
+<a href="/fr/">Français</a>,
+<a href="/id/">Bahasa Indonesia</a>,
+<a href="/it/">Italiano</a>,
+<a href="/ja/">日本語</a>,
+<a href="/ko/">한국어</a>,
+<a href="/pl/">polski</a>,
+<a href="/pt/">Português</a>,
+<a href="/ru/">Русский</a>,
+<a href="/tr/">Türkçe</a>,
+<a href="/vi/">Tiếng Việt</a>,
+<a href="/zh_cn/">简体中文</a>,
+<a href="/zh_tw/">繁體中文</a>.
+</p>
+
+        
+  <p><a href="/en/about/website/">This website</a>
+is proudly maintained by members of the Ruby community.
+</p>
+
+
+      </div>
+    </div>
+
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-620926-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+  </body>
+</html>
+D_$�V�      W���W���<�p�       (    :https://www.ruby-lang.org/en/downloads/ necko:classified 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAQAAgAAAAAAAAAAAAAAAAAAAAAB4vFIJp5wRkeyPxAQ9RJGKPqbqVvKO0mKuIl8ec8o/uhmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAA6IMIIOhDCCDWygAwIBAgIMcx6aLOMWWzwX4eJ6MA0GCSqGSIb3DQEBCwUAMFcxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMS0wKwYDVQQDEyRHbG9iYWxTaWduIENsb3VkU1NMIENBIC0gU0hBMjU2IC0gRzMwHhcNMTYwNjI4MTk0NDA4WhcNMTYwOTI4MTIzNDAxWjBsMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzEVMBMGA1UECgwMRmFzdGx5LCBJbmMuMRkwFwYDVQQDDBBtLnNzbC5mYXN0bHkubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvXMULPYo7Dx4YyVjdHaEP5QWGB6U4htgp1E9fAP6YNHjAW217b2l8kLXM7dt7vLOLS7te9dw9eFSNKgPprq7AbnP6RuYZcJfgHIKYdPPkJsgwNYnVrq90xj3hHbq46MQHTOCovbnuqMeGGhmDm96hd9e85DUHRVYoQ1iQYX1g5QXpdxEp69efFXf0qnOys2lWlnPk3g4qgylbiWM8sDdA3CHVyCXN01VA+F3m+jwmN/TlCZJ4aa2m3ArDM0GNhwLtgrB8Our73gsnu7Nxvv2ngLjugCwDQuc1XZyxrjo6s5Cn3FBv9UQ7GDcrZ/ATy3b30Lob5d2eSbcDjnosBUkLQIDAQABo4ILOTCCCzUwDgYDVR0PAQH/BAQDAgWgMIGKBggrBgEFBQcBAQR+MHwwQgYIKwYBBQUHMAKGNmh0dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2Nsb3Vkc3Nsc2hhMmczLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2Nsb3Vkc3Nsc2hhMmczMFYGA1UdIARPME0wQQYJKwYBBAGgMgEUMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECAjAJBgNVHRMEAjAAMIIJ0gYDVR0RBIIJyTCCCcWCEG0uc3NsLmZhc3RseS5uZXSCDiouN2RpZ2l0YWwuY29tgg0qLjdzdGF0aWMuY29tggsqLmEucHhpLnB1YoIVKi5hY3RpdmlzdG1vbml0b3IuY29tggwqLmFkd2VyeC5jb22CDCouYXBwYm95LmNvbYIWKi5hc2RhZ29vZGxpdmluZy5jby51a4INKi5iYnlsYWJzLmNvbYILKi5jZXJvcy5jb22CDiouY2Vyb3NkZXYuY29tggwqLmNpbmNkbi5jb22CFSouY2xpbmljYWxvcHRpb25zLmNvbYIQKi5kYXJieXNtYXJ0LmNvbYISKi5kaWdpdGFsb2NlYW4uY29tggwqLmRvbWZlZS5jb22CEyouZ2FkdmVudHVyZXMuY28udWuCFCouZ2FkdmVudHVyZXMuY29tLmF1gg0qLmdydWJodWIuY29tggsqLmhlYXJzdC5pb4IQKi5ob3VzZWxvZ2ljLmNvbYIQKi5pYWQuYXBwYm95LmNvbYIQKi5pbnByYWN0aWNlLmNvbYIWKi5pbnByYWN0aWNlYWZyaWNhLmNvbYIMKi5qd3BzcnYuY29tghMqLmxvbmd0YWlsdmlkZW8uY29tgg4qLmx1bW9zaXR5LmNvbYIMKi5taW50ZWQuY29tgg8qLm1pbnRlZGNkbi5uZXSCESoubmV3cmVwdWJsaWMuY29tgg4qLm9wZXJhY2RuLmNvbYILKi5waXphcC5jb22CESoucHVudG90aWNrZXQuY29tghYqLnJhZGlvZWRpdC5paGVhcnQuY29tgg8qLnJ1YnktbGFuZy5vcmeCDiouc2VhbWxlc3MuY29tggoqLnNwbGl0Lmlvgg4qLnN0YWdlY21zLmNvbYIOKi5zdHJlYW11cC5jb22CDioueWllbGRpZnkuY29tghIqLnlpZWxkaWZ5bGFicy5jb22CCmFkd2VyeC5jb22CC2FwaS53cjEuY29tgg9iZXRhLmVzY3Jvdy5jb22CCWNlcm9zLmNvbYIKY2luY2RuLmNvbYIPY29udGVudC53cjEuY29tghFkYXRhLmxpdmVmeXJlLmNvbYIYZGF0YS5xYS1leHQubGl2ZWZ5cmUuY29tghZkYXRhLnQ0MDIubGl2ZWZ5cmUuY29tgg1kZXYuZ2Nlb3MuY29tgg1kaXNxdXNhZHMuY29tghFmYXN0bHkuc2MtY2RuLm5ldIIXZmFzdGx5LnViZXJwb3B0ZXN0LmluZm+CDmZwaG90bzAuYXNrLmZtghJmdXJuaXR1cmUxMjMuY28udWuCDWZ1dG91cmlzbS5vcmeCDGctbmF0aW9uLmNvbYIRZ2FkdmVudHVyZXMuY28udWuCD2dhZHZlbnR1cmVzLmNvbYISZ2FkdmVudHVyZXMuY29tLmF1gglnY2Vvcy5jb22CC2dydWJodWIuY29tggZndS5jb22CDmd1YXJkaWFuLmNvLnVrgg5ob3VzZWxvZ2ljLmNvbYIeaWRhcGkuY29kZS5kZXYtdGhlZ3VhcmRpYW4uY29tghhsZWdhY3ktYXBpLmFmcm9zdHJlYW0udHaCDGxvb3B0YWlsLmNvbYIKbWludGVkLmNvbYINbWludGVkY2RuLm5ldIIPbmV3cmVwdWJsaWMuY29tgiVwcm9maWxlLWJldGEuY29kZS5kZXYtdGhlZ3VhcmRpYW4uY29tgiBwcm9maWxlLmNvZGUuZGV2LXRoZWd1YXJkaWFuLmNvbYIPcHVudG90aWNrZXQuY29tghRyYWRpb2VkaXQuaWhlYXJ0LmNvbYIMc2VhbWxlc3MuY29tghBzc2wucC5qd3BjZG4uY29tggxzdGFnZWNtcy5jb22CGHN0YXRpYy5vcmNoYXJkY29yc2V0LmNvbYIcc3RyZWFtLXRlc3Quc3ZjLjdkaWdpdGFsLm5ldIIXc3RyZWFtLnN2Yy43ZGlnaXRhbC5uZXSCEXRoZWd1YXJkaWFuLmNvLnVrghR0aGlzaXN5b3VycGxhbmV0LmNvbYISdHJhaW5pbmcuZ2Nlb3MuY29tghZ2aWRlby1jZG4uc3RyZWFtdXAuY29tghp3d3cuYXBwbGlhbmNlc2RpcmVjdC5jby51a4IQd3d3LmJ1enpmZWVkLmNvbYIVd3d3LmRlYmVuaGFtc3BsdXMuY29tghN3d3cuZGlyZWN0dHZzLmNvLnVrghF3d3cuZGlzcXVzYWRzLmNvbYIOd3d3LmVzY3Jvdy5jb22CEHd3dy5nLW5hdGlvbi5jb22CDXd3dy5nY2Vvcy5jb22CCnd3dy5ndS5jb22CEnd3dy5ndWFyZGlhbi5jby51a4INd3d3Lm1kc29sLmNvbYIhd3d3Lm1lZGlkYXRhLW1haW4ucHJldmlldy5mbG9lLmNhghJ3d3cucHJvcHVibGljYS5vcmeCFHd3dy5yb2JlcnR3YWx0ZXJzLmFlghR3d3cucm9iZXJ0d2FsdGVycy5iZYIUd3d3LnJvYmVydHdhbHRlcnMuY2iCFHd3dy5yb2JlcnR3YWx0ZXJzLmNughd3d3cucm9iZXJ0d2FsdGVycy5jby5pZIIXd3d3LnJvYmVydHdhbHRlcnMuY28uanCCF3d3dy5yb2JlcnR3YWx0ZXJzLmNvLmtyghd3d3cucm9iZXJ0d2FsdGVycy5jby5ueoIXd3d3LnJvYmVydHdhbHRlcnMuY28udGiCF3d3dy5yb2JlcnR3YWx0ZXJzLmNvLnphghh3d3cucm9iZXJ0d2FsdGVycy5jb20uYXWCGHd3dy5yb2JlcnR3YWx0ZXJzLmNvbS5icoIYd3d3LnJvYmVydHdhbHRlcnMuY29tLmhrghh3d3cucm9iZXJ0d2FsdGVycy5jb20ubXmCGHd3dy5yb2JlcnR3YWx0ZXJzLmNvbS5zZ4IYd3d3LnJvYmVydHdhbHRlcnMuY29tLnR3ghh3d3cucm9iZXJ0d2FsdGVycy5jb20udm6CFHd3dy5yb2JlcnR3YWx0ZXJzLmRlghR3d3cucm9iZXJ0d2FsdGVycy5lc4IUd3d3LnJvYmVydHdhbHRlcnMuZnKCFHd3dy5yb2JlcnR3YWx0ZXJzLmllghR3d3cucm9iZXJ0d2FsdGVycy5sdYIUd3d3LnJvYmVydHdhbHRlcnMubmyCG3d3dy5yb2JlcnR3YWx0ZXJzYWZyaWNhLmNvbYIWd3d3LnNjYWxpbmdvZmZncmlkLm9yZ4IPd3d3LnNpbXBsb3JhLmRlghV3d3cudGhlZ3VhcmRpYW4uY28udWuCD3d3dy55ZXN3YXJlLmNvbYIWeW91bGxuZXZlcmZvcmdldGl0LmNvbTAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHQYDVR0OBBYEFMzUXPEUWNtiRzhp1E04j++JDTDSMB8GA1UdIwQYMBaAFKkrh+HOJEc7G7/PhTcCVZ0NlFjmMA0GCSqGSIb3DQEBCwUAA4IBAQCYhN5+TnGkMH0Cmn4GHyajTMKxC+vgi3n/GFvLDKRFzepD6p20dNtCGU4kDA+6pi/SPz6Xf4CUOxbMjyp2NHmxsBkCfaPzosFNlomwN6ngcIJ7++9hv5HGsGCzpIGnkQtTyy0SEN6qf0ofKuJS9AeJ5rTZRDOc8dlSXfDx71/R0m5eAK8/BeMmHrj+V5i26O4eIATciZylPFGX5WHslc4JX29cNY6MNIrLpGIaS7eedVpekNK43srtBqjZQuHtdYd4Zvl4882xyHV3dtG7ZqyokWc9OoxyhbmqHby22DI+2CrPArVQYZ6u8bHoU3EYjuRQTFdRu7eKzf1B0ABOnW+zwC8AAwAAAAABAQAA request-method GET response-head HTTP/1.1 200 OK
+Server: Cowboy
+Strict-Transport-Security: max-age=31536000
+Content-Type: text/html
+Etag: W/"01e351fc99adeee92f007278cee10977"
+X-Frame-Options: SAMEORIGIN
+Via: 1.1 vegur, 1.1 varnish, 1.1 varnish
+Fastly-Debug-Digest: c879f1f0a9f004ab16dbd0a9cd5a26d69cbb27daf6490da02c5b8ce936d9e09b
+Content-Length: 9339
+Accept-Ranges: bytes
+Date: Mon, 01 Aug 2016 18:48:01 GMT
+Age: 2024
+X-Served-By: cache-iad2132-IAD, cache-lax1428-LAX
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 2
+X-Timer: S1470077281.341443,VS0,VE0
+ charset windows-1252 uncompressed-len 0 predictor::resource-count 16 predictor::https://www.ruby-lang.org/stylesheets/normalize.css 1,2,1470077825,0 predictor::https://www.ruby-lang.org/stylesheets/main.css 1,2,1470077825,0 predictor::https://www.ruby-lang.org/stylesheets/pygments.css 1,2,1470077825,0 predictor::https://www.ruby-lang.org/stylesheets/mobile.css 1,2,1470077825,0 predictor::https://www.ruby-lang.org/stylesheets/print.css 1,2,1470077825,0 predictor::https://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic&subset=latin,cyrillic,greek,vietnamese 1,2,1470077825,0 predictor::https://www.ruby-lang.org/javascripts/jquery.min.js 1,2,1470077825,0 predictor::https://www.ruby-lang.org/javascripts/page.js 1,2,1470077825,0 predictor::https://ssl.google-analytics.com/ga.js 1,2,1470077825,0 predictor::https://www.ruby-lang.org/images/header-ruby-logo.png 1,2,1470077825,0 predictor::https://www.google.com/coop/intl/en/images/google_custom_search_watermark.gif 1,2,1470077825,0 predictor::https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ1-gdm0LZdjqr5-oayXSOefg.woff2 1,2,1470077825,0 predictor::https://fonts.gstatic.com/s/notosans/v6/LeFlHvsZjXu2c3ZRgBq9nFtXRa8TVwTICgirnJhmVJw.woff2 1,2,1470077825,0 predictor::https://fonts.gstatic.com/s/notosans/v6/iLJc6PpCnnbQjYc1Jq4v0xJtnKITppOI_IvcXXDNrsc.woff2 1,2,1470077825,0 predictor::https://fonts.gstatic.com/s/notosans/v6/erE3KsIWUumgD1j_Ca-V-xJtnKITppOI_IvcXXDNrsc.woff2 1,2,1470077825,0 predictor::https://fonts.gstatic.com/s/notosans/v6/mTzVK0-EJOCaJiOPeaz-hxJtnKITppOI_IvcXXDNrsc.woff2 1,2,1470077825,0   ${

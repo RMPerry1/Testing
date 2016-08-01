@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "commands": [
+    {
+      "command": "apps",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.14",
+      "timestamp": 1470078628,
+      "version": "5.2.33-fb78b73",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 135600,
+      "valid": true
+    }
+  ]
+}
