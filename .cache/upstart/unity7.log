@@ -413,3 +413,6 @@ WARN  2016-08-01 12:51:17 unity.shell.compiz unityshell.cpp:3228 Animation plugi
 WARN  2016-08-01 12:52:25 unity.shell.compiz unityshell.cpp:3228 Animation plugin not found. Can't set minimize speed.
 WARN  2016-08-01 12:57:13 unity.shell.compiz unityshell.cpp:3228 Animation plugin not found. Can't set minimize speed.
 WARN  2016-08-01 12:57:51 unity.shell.compiz unityshell.cpp:3228 Animation plugin not found. Can't set minimize speed.
+WARN  2016-08-01 13:24:48 unity.shell.compiz unityshell.cpp:3228 Animation plugin not found. Can't set minimize speed.
+console.warn: Asynchronous operation was aborted as selection changed.
+WARN  2016-08-01 13:34:46 unity.shell.compiz unityshell.cpp:3228 Animation plugin not found. Can't set minimize speed.
