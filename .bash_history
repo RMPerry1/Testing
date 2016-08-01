@@ -75,3 +75,21 @@ git commit -m "update README"
 git add -A
 $
 systemadmin@Ubuntu16~$ git add -A
+git add -A
+git commit -m "update README"
+git push origin master
+git init
+git add *.c
+git add LICENSE
+git commit -m "initial project version"
+git clone https://github.com/RMPerry1/google-homepage.git
+git clone https://github.com/RMPerry1/google-homepage.git The_Odin_Project
+cd The_Odin_Project
+README.md
+cat README.md
+git add-A
+git add -A
+git commit -m "update README"
+git add -A
+git commit -m "update README"
+git push origin master

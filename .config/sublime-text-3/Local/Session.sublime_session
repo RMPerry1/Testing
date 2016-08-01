@@ -20,13 +20,10 @@
 			"buffers":
 			[
 				{
-					"contents": "# google-homepage\n\ntheodinproject.com\n",
-					"file": "/home/systemadmin/google-homepage/README.md",
-					"file_size": 17,
-					"file_write_time": 131145549416138979,
+					"file": "/home/systemadmin/The_Odin_Project/README.md",
 					"settings":
 					{
-						"buffer_size": 38,
+						"buffer_size": 17,
 						"line_ending": "Unix"
 					}
 				}
@@ -63,6 +60,7 @@
 			},
 			"file_history":
 			[
+				"/home/systemadmin/google-homepage/README.md"
 			],
 			"find":
 			{
@@ -102,19 +100,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/systemadmin/google-homepage/README.md",
+							"file": "/home/systemadmin/The_Odin_Project/README.md",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 38,
+								"buffer_size": 17,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										18,
-										18
+										17,
+										17
 									]
 								],
 								"settings":
